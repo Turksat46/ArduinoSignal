@@ -190,7 +190,7 @@ void bleibeGruen() {
       
       
 
-      if (timer> 10000) {
+      if (timer> 100000) {
           
         standby();
       }
