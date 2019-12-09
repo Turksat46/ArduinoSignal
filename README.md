@@ -2,6 +2,7 @@
 A code to make your Arduino to an traffic light!
 
 # PINS
+
 carRed = 2
 carYellow = 3
 carGreen = 4
