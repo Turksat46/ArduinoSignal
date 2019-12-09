@@ -3,9 +3,9 @@ A code to make your Arduino to an traffic light!
 
 # PINS
 
-carRed = 2
-carYellow = 3
-carGreen = 4
+carRed = 2;
+carYellow = 3;
+carGreen = 4;
 
 2. carRed = 5 *
 2. carYellow = 6 *
