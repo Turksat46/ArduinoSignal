@@ -28,4 +28,6 @@ The signal does automatically change to standby (after a while, only all the yel
 
 # Versions
 
+1.1 : Changed the wait time until standby!
+
 1.0 : Basic traffic light code!
